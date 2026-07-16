@@ -67,6 +67,12 @@ Almost certainly. Check your car in two seconds on [usb4car.com](https://usb4car
 **I need help.**
 [Contact us](https://usb4car.com/contact) — you'll get a reply from the people who build the app within one business day.
 
+## In the news & featured on
+
+- [Press release: USB4Car launches Windows app that makes any USB stick play music in any car](https://news.prfree.org/@usb4car/usb4car-launches-windows-app-that-makes-any-usb-stick-play-music-in-any-car-u8e02arsfpul) ([newsroom](https://news.prfree.org/@usb4car))
+- [Startup Fame](https://startupfa.me/s/usb4car) · [Uno Directory](https://uno.directory/listings/e-commerce/usb4car) · [CurlShip](https://curlship.com/l/2131) · [Twelve Tools](https://twelve.tools/usb4car) · [PeerPush](https://peerpush.com/p/usb4car) · [LaunchIgniter](https://launchigniter.com/product/usb4car) · [Findly Tools](https://findly.tools/usb4car) · [VerifiedDR](https://verifieddr.com/website/usb4car-com) · [Saaspa.ge](https://www.saaspa.ge/product/usb4car)
+- Full list: [usb4car.com/press](https://usb4car.com/press)
+
 ---
 
 <p align="center">
